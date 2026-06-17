@@ -1,0 +1,433 @@
+FIPS Code,State,Area name,Attribute,Value
+0,US,United States,"Less than high school graduate, 2019-23",24230217
+0,US,United States,"High school graduate (or equivalency), 2019-23",59836489
+0,US,United States,"Some college or associate degree, 2019-23",64413653
+0,US,United States,"Bachelor's degree or higher, 2019-23",79954302
+0,US,United States,"Percent of adults who are not high school graduates, 2019-23",10.60706676
+0,US,United States,"Percent of adults who are high school graduates (or equivalent), 2019-23",26.19413741
+0,US,United States,"Percent of adults completing some college or associate degree, 2019-23",28.1978456
+0,US,United States,"Percent of adults with a bachelor's degree or higher, 2019-23",35.00095023
+1000,AL,Alabama,"Less than high school graduate, 2019-23",409381
+1000,AL,Alabama,"High school graduate (or equivalency), 2019-23",1046374
+1000,AL,Alabama,"Some college or associate degree, 2019-23",1035466
+1000,AL,Alabama,"Bachelor's degree or higher, 2019-23",957081
+1000,AL,Alabama,"Percent of adults who are not high school graduates, 2019-23",11.87195901
+1000,AL,Alabama,"Percent of adults who are high school graduates (or equivalent), 2019-23",30.34461599
+1000,AL,Alabama,"Percent of adults completing some college or associate degree, 2019-23",30.02828639
+1000,AL,Alabama,"Percent of adults with a bachelor's degree or higher, 2019-23",27.75513862
+2000,AK,Alaska,"Less than high school graduate, 2019-23",31854
+2000,AK,Alaska,"High school graduate (or equivalency), 2019-23",141206
+2000,AK,Alaska,"Some college or associate degree, 2019-23",162411
+2000,AK,Alaska,"Bachelor's degree or higher, 2019-23",152432
+2000,AK,Alaska,"Percent of adults who are not high school graduates, 2019-23",6.528756741
+2000,AK,Alaska,"Percent of adults who are high school graduates (or equivalent), 2019-23",28.94140844
+2000,AK,Alaska,"Percent of adults completing some college or associate degree, 2019-23",33.28755921
+2000,AK,Alaska,"Percent of adults with a bachelor's degree or higher, 2019-23",31.24227562
+4000,AZ,Arizona,"Less than high school graduate, 2019-23",544528
+4000,AZ,Arizona,"High school graduate (or equivalency), 2019-23",1171693
+4000,AZ,Arizona,"Some college or associate degree, 2019-23",1646950
+4000,AZ,Arizona,"Bachelor's degree or higher, 2019-23",1627462
+4000,AZ,Arizona,"Percent of adults who are not high school graduates, 2019-23",10.91100067
+4000,AZ,Arizona,"Percent of adults who are high school graduates (or equivalent), 2019-23",23.47784339
+4000,AZ,Arizona,"Percent of adults completing some college or associate degree, 2019-23",33.00082374
+4000,AZ,Arizona,"Percent of adults with a bachelor's degree or higher, 2019-23",32.6103322
+5000,AR,Arkansas,"Less than high school graduate, 2019-23",233857
+5000,AR,Arkansas,"High school graduate (or equivalency), 2019-23",702778
+5000,AR,Arkansas,"Some college or associate degree, 2019-23",593923
+5000,AR,Arkansas,"Bachelor's degree or higher, 2019-23",513221
+5000,AR,Arkansas,"Percent of adults who are not high school graduates, 2019-23",11.44238198
+5000,AR,Arkansas,"Percent of adults who are high school graduates (or equivalent), 2019-23",34.3862032
+5000,AR,Arkansas,"Percent of adults completing some college or associate degree, 2019-23",29.06004025
+5000,AR,Arkansas,"Percent of adults with a bachelor's degree or higher, 2019-23",25.11137457
+6000,CA,California,"Less than high school graduate, 2019-23",4149146
+6000,CA,California,"High school graduate (or equivalency), 2019-23",5496195
+6000,CA,California,"Some college or associate degree, 2019-23",7461496
+6000,CA,California,"Bachelor's degree or higher, 2019-23",9834361
+6000,CA,California,"Percent of adults who are not high school graduates, 2019-23",15.40074795
+6000,CA,California,"Percent of adults who are high school graduates (or equivalent), 2019-23",20.4007075
+6000,CA,California,"Percent of adults completing some college or associate degree, 2019-23",27.69548704
+6000,CA,California,"Percent of adults with a bachelor's degree or higher, 2019-23",36.50305751
+8000,CO,Colorado,"Less than high school graduate, 2019-23",292446
+8000,CO,Colorado,"High school graduate (or equivalency), 2019-23",811023
+8000,CO,Colorado,"Some college or associate degree, 2019-23",1128710
+8000,CO,Colorado,"Bachelor's degree or higher, 2019-23",1806355
+8000,CO,Colorado,"Percent of adults who are not high school graduates, 2019-23",7.241390069
+8000,CO,Colorado,"Percent of adults who are high school graduates (or equivalent), 2019-23",20.08211396
+8000,CO,Colorado,"Percent of adults completing some college or associate degree, 2019-23",27.94850805
+8000,CO,Colorado,"Percent of adults with a bachelor's degree or higher, 2019-23",44.72798793
+9000,CT,Connecticut,"Less than high school graduate, 2019-23",219549
+9000,CT,Connecticut,"High school graduate (or equivalency), 2019-23",647094
+9000,CT,Connecticut,"Some college or associate degree, 2019-23",603807
+9000,CT,Connecticut,"Bachelor's degree or higher, 2019-23",1062403
+9000,CT,Connecticut,"Percent of adults who are not high school graduates, 2019-23",8.668051403
+9000,CT,Connecticut,"Percent of adults who are high school graduates (or equivalent), 2019-23",25.54802825
+9000,CT,Connecticut,"Percent of adults completing some college or associate degree, 2019-23",23.83900684
+9000,CT,Connecticut,"Percent of adults with a bachelor's degree or higher, 2019-23",41.9449135
+10000,DE,Delaware,"Less than high school graduate, 2019-23",61144
+10000,DE,Delaware,"High school graduate (or equivalency), 2019-23",206192
+10000,DE,Delaware,"Some college or associate degree, 2019-23",192480
+10000,DE,Delaware,"Bachelor's degree or higher, 2019-23",250626
+10000,DE,Delaware,"Percent of adults who are not high school graduates, 2019-23",8.606473153
+10000,DE,Delaware,"Percent of adults who are high school graduates (or equivalent), 2019-23",29.02305888
+10000,DE,Delaware,"Percent of adults completing some college or associate degree, 2019-23",27.09299281
+10000,DE,Delaware,"Percent of adults with a bachelor's degree or higher, 2019-23",35.27747515
+11000,DC,District of Columbia,"Less than high school graduate, 2019-23",34651
+11000,DC,District of Columbia,"High school graduate (or equivalency), 2019-23",70322
+11000,DC,District of Columbia,"Some college or associate degree, 2019-23",71527
+11000,DC,District of Columbia,"Bachelor's degree or higher, 2019-23",307906
+11000,DC,District of Columbia,"Percent of adults who are not high school graduates, 2019-23",7.153297028
+11000,DC,District of Columbia,"Percent of adults who are high school graduates (or equivalent), 2019-23",14.51716122
+11000,DC,District of Columbia,"Percent of adults completing some college or associate degree, 2019-23",14.7659195
+11000,DC,District of Columbia,"Percent of adults with a bachelor's degree or higher, 2019-23",63.56362225
+11001,DC,District of Columbia,"Less than high school graduate, 2019-23",34651
+11001,DC,District of Columbia,"High school graduate (or equivalency), 2019-23",70322
+11001,DC,District of Columbia,"Some college or associate degree, 2019-23",71527
+11001,DC,District of Columbia,"Bachelor's degree or higher, 2019-23",307906
+11001,DC,District of Columbia,"Percent of adults who are not high school graduates, 2019-23",7.153297028
+11001,DC,District of Columbia,"Percent of adults who are high school graduates (or equivalent), 2019-23",14.51716122
+11001,DC,District of Columbia,"Percent of adults completing some college or associate degree, 2019-23",14.7659195
+11001,DC,District of Columbia,"Percent of adults with a bachelor's degree or higher, 2019-23",63.56362225
+12000,FL,Florida,"Less than high school graduate, 2019-23",1643437
+12000,FL,Florida,"High school graduate (or equivalency), 2019-23",4346402
+12000,FL,Florida,"Some college or associate degree, 2019-23",4596529
+12000,FL,Florida,"Bachelor's degree or higher, 2019-23",5263931
+12000,FL,Florida,"Percent of adults who are not high school graduates, 2019-23",10.3684921
+12000,FL,Florida,"Percent of adults who are high school graduates (or equivalent), 2019-23",27.42157735
+12000,FL,Florida,"Percent of adults completing some college or associate degree, 2019-23",28.99963591
+12000,FL,Florida,"Percent of adults with a bachelor's degree or higher, 2019-23",33.21029464
+13000,GA,Georgia,"Less than high school graduate, 2019-23",801324
+13000,GA,Georgia,"High school graduate (or equivalency), 2019-23",1950698
+13000,GA,Georgia,"Some college or associate degree, 2019-23",2020131
+13000,GA,Georgia,"Bachelor's degree or higher, 2019-23",2480907
+13000,GA,Georgia,"Percent of adults who are not high school graduates, 2019-23",11.04808178
+13000,GA,Georgia,"Percent of adults who are high school graduates (or equivalent), 2019-23",26.89482784
+13000,GA,Georgia,"Percent of adults completing some college or associate degree, 2019-23",27.85212035
+13000,GA,Georgia,"Percent of adults with a bachelor's degree or higher, 2019-23",34.20497004
+15000,HI,Hawaii,"Less than high school graduate, 2019-23",72950
+15000,HI,Hawaii,"High school graduate (or equivalency), 2019-23",273812
+15000,HI,Hawaii,"Some college or associate degree, 2019-23",316191
+15000,HI,Hawaii,"Bachelor's degree or higher, 2019-23",364398
+15000,HI,Hawaii,"Percent of adults who are not high school graduates, 2019-23",7.100786391
+15000,HI,Hawaii,"Percent of adults who are high school graduates (or equivalent), 2019-23",26.65223473
+15000,HI,Hawaii,"Percent of adults completing some college or associate degree, 2019-23",30.7773098
+15000,HI,Hawaii,"Percent of adults with a bachelor's degree or higher, 2019-23",35.46966908
+16000,ID,Idaho,"Less than high school graduate, 2019-23",103570
+16000,ID,Idaho,"High school graduate (or equivalency), 2019-23",322573
+16000,ID,Idaho,"Some college or associate degree, 2019-23",430144
+16000,ID,Idaho,"Bachelor's degree or higher, 2019-23",388032
+16000,ID,Idaho,"Percent of adults who are not high school graduates, 2019-23",8.323428317
+16000,ID,Idaho,"Percent of adults who are high school graduates (or equivalent), 2019-23",25.92365784
+16000,ID,Idaho,"Percent of adults completing some college or associate degree, 2019-23",34.5686275
+16000,ID,Idaho,"Percent of adults with a bachelor's degree or higher, 2019-23",31.18428634
+17000,IL,Illinois,"Less than high school graduate, 2019-23",851323
+17000,IL,Illinois,"High school graduate (or equivalency), 2019-23",2207546
+17000,IL,Illinois,"Some college or associate degree, 2019-23",2430244
+17000,IL,Illinois,"Bachelor's degree or higher, 2019-23",3249494
+17000,IL,Illinois,"Percent of adults who are not high school graduates, 2019-23",9.742090473
+17000,IL,Illinois,"Percent of adults who are high school graduates (or equivalent), 2019-23",25.2619897
+17000,IL,Illinois,"Percent of adults completing some college or associate degree, 2019-23",27.81042791
+17000,IL,Illinois,"Percent of adults with a bachelor's degree or higher, 2019-23",37.18549192
+18000,IN,Indiana,"Less than high school graduate, 2019-23",445651
+18000,IN,Indiana,"High school graduate (or equivalency), 2019-23",1496214
+18000,IN,Indiana,"Some college or associate degree, 2019-23",1304353
+18000,IN,Indiana,"Bachelor's degree or higher, 2019-23",1313086
+18000,IN,Indiana,"Percent of adults who are not high school graduates, 2019-23",9.774540149
+18000,IN,Indiana,"Percent of adults who are high school graduates (or equivalent), 2019-23",32.81671939
+18000,IN,Indiana,"Percent of adults completing some college or associate degree, 2019-23",28.60859903
+18000,IN,Indiana,"Percent of adults with a bachelor's degree or higher, 2019-23",28.80014143
+19000,IA,Iowa,"Less than high school graduate, 2019-23",145119
+19000,IA,Iowa,"High school graduate (or equivalency), 2019-23",649969
+19000,IA,Iowa,"Some college or associate degree, 2019-23",684769
+19000,IA,Iowa,"Bachelor's degree or higher, 2019-23",660619
+19000,IA,Iowa,"Percent of adults who are not high school graduates, 2019-23",6.779753662
+19000,IA,Iowa,"Percent of adults who are high school graduates (or equivalent), 2019-23",30.36562895
+19000,IA,Iowa,"Percent of adults completing some college or associate degree, 2019-23",31.99143555
+19000,IA,Iowa,"Percent of adults with a bachelor's degree or higher, 2019-23",30.86318183
+20000,KS,Kansas,"Less than high school graduate, 2019-23",156595
+20000,KS,Kansas,"High school graduate (or equivalency), 2019-23",495115
+20000,KS,Kansas,"Some college or associate degree, 2019-23",601919
+20000,KS,Kansas,"Bachelor's degree or higher, 2019-23",679664
+20000,KS,Kansas,"Percent of adults who are not high school graduates, 2019-23",8.09991036
+20000,KS,Kansas,"Percent of adults who are high school graduates (or equivalent), 2019-23",25.60993083
+20000,KS,Kansas,"Percent of adults completing some college or associate degree, 2019-23",31.13439091
+20000,KS,Kansas,"Percent of adults with a bachelor's degree or higher, 2019-23",35.1557679
+21000,KY,Kentucky,"Less than high school graduate, 2019-23",352966
+21000,KY,Kentucky,"High school graduate (or equivalency), 2019-23",1006715
+21000,KY,Kentucky,"Some college or associate degree, 2019-23",887620
+21000,KY,Kentucky,"Bachelor's degree or higher, 2019-23",830856
+21000,KY,Kentucky,"Percent of adults who are not high school graduates, 2019-23",11.46679653
+21000,KY,Kentucky,"Percent of adults who are high school graduates (or equivalent), 2019-23",32.70512193
+21000,KY,Kentucky,"Percent of adults completing some college or associate degree, 2019-23",28.83608601
+21000,KY,Kentucky,"Percent of adults with a bachelor's degree or higher, 2019-23",26.99199553
+22000,LA,Louisiana,"Less than high school graduate, 2019-23",407400
+22000,LA,Louisiana,"High school graduate (or equivalency), 2019-23",1012121
+22000,LA,Louisiana,"Some college or associate degree, 2019-23",864939
+22000,LA,Louisiana,"Bachelor's degree or higher, 2019-23",825794
+22000,LA,Louisiana,"Percent of adults who are not high school graduates, 2019-23",13.09860867
+22000,LA,Louisiana,"Percent of adults who are high school graduates (or equivalent), 2019-23",32.54142588
+22000,LA,Louisiana,"Percent of adults completing some college or associate degree, 2019-23",27.80927217
+22000,LA,Louisiana,"Percent of adults with a bachelor's degree or higher, 2019-23",26.55069329
+23000,ME,Maine,"Less than high school graduate, 2019-23",56031
+23000,ME,Maine,"High school graduate (or equivalency), 2019-23",310243
+23000,ME,Maine,"Some college or associate degree, 2019-23",291033
+23000,ME,Maine,"Bachelor's degree or higher, 2019-23",359323
+23000,ME,Maine,"Percent of adults who are not high school graduates, 2019-23",5.511444675
+23000,ME,Maine,"Percent of adults who are high school graduates (or equivalent), 2019-23",30.51680552
+23000,ME,Maine,"Percent of adults completing some college or associate degree, 2019-23",28.62722918
+23000,ME,Maine,"Percent of adults with a bachelor's degree or higher, 2019-23",35.34452062
+24000,MD,Maryland,"Less than high school graduate, 2019-23",382701
+24000,MD,Maryland,"High school graduate (or equivalency), 2019-23",1014175
+24000,MD,Maryland,"Some college or associate degree, 2019-23",1049892
+24000,MD,Maryland,"Bachelor's degree or higher, 2019-23",1826045
+24000,MD,Maryland,"Percent of adults who are not high school graduates, 2019-23",8.95665221
+24000,MD,Maryland,"Percent of adults who are high school graduates (or equivalent), 2019-23",23.73553441
+24000,MD,Maryland,"Percent of adults completing some college or associate degree, 2019-23",24.57144743
+24000,MD,Maryland,"Percent of adults with a bachelor's degree or higher, 2019-23",42.73636595
+25000,MA,Massachusetts,"Less than high school graduate, 2019-23",425209
+25000,MA,Massachusetts,"High school graduate (or equivalency), 2019-23",1129802
+25000,MA,Massachusetts,"Some college or associate degree, 2019-23",1084720
+25000,MA,Massachusetts,"Bachelor's degree or higher, 2019-23",2305899
+25000,MA,Massachusetts,"Percent of adults who are not high school graduates, 2019-23",8.597671075
+25000,MA,Massachusetts,"Percent of adults who are high school graduates (or equivalent), 2019-23",22.84445056
+25000,MA,Massachusetts,"Percent of adults completing some college or associate degree, 2019-23",21.93289834
+25000,MA,Massachusetts,"Percent of adults with a bachelor's degree or higher, 2019-23",46.62498003
+26000,MI,Michigan,"Less than high school graduate, 2019-23",564902
+26000,MI,Michigan,"High school graduate (or equivalency), 2019-23",1964538
+26000,MI,Michigan,"Some college or associate degree, 2019-23",2224908
+26000,MI,Michigan,"Bachelor's degree or higher, 2019-23",2213104
+26000,MI,Michigan,"Percent of adults who are not high school graduates, 2019-23",8.107727186
+26000,MI,Michigan,"Percent of adults who are high school graduates (or equivalent), 2019-23",28.1959316
+26000,MI,Michigan,"Percent of adults completing some college or associate degree, 2019-23",31.93287876
+26000,MI,Michigan,"Percent of adults with a bachelor's degree or higher, 2019-23",31.76346245
+27000,MN,Minnesota,"Less than high school graduate, 2019-23",239636
+27000,MN,Minnesota,"High school graduate (or equivalency), 2019-23",916744
+27000,MN,Minnesota,"Some college or associate degree, 2019-23",1227836
+27000,MN,Minnesota,"Bachelor's degree or higher, 2019-23",1513374
+27000,MN,Minnesota,"Percent of adults who are not high school graduates, 2019-23",6.148312162
+27000,MN,Minnesota,"Percent of adults who are high school graduates (or equivalent), 2019-23",23.52079105
+27000,MN,Minnesota,"Percent of adults completing some college or associate degree, 2019-23",31.50244125
+27000,MN,Minnesota,"Percent of adults with a bachelor's degree or higher, 2019-23",38.82845553
+28000,MS,Mississippi,"Less than high school graduate, 2019-23",263266
+28000,MS,Mississippi,"High school graduate (or equivalency), 2019-23",589225
+28000,MS,Mississippi,"Some college or associate degree, 2019-23",641810
+28000,MS,Mississippi,"Bachelor's degree or higher, 2019-23",475997
+28000,MS,Mississippi,"Percent of adults who are not high school graduates, 2019-23",13.36173513
+28000,MS,Mississippi,"Percent of adults who are high school graduates (or equivalent), 2019-23",29.90537472
+28000,MS,Mississippi,"Percent of adults completing some college or associate degree, 2019-23",32.57426034
+28000,MS,Mississippi,"Percent of adults with a bachelor's degree or higher, 2019-23",24.15862981
+29000,MO,Missouri,"Less than high school graduate, 2019-23",354732
+29000,MO,Missouri,"High school graduate (or equivalency), 2019-23",1279442
+29000,MO,Missouri,"Some college or associate degree, 2019-23",1238028
+29000,MO,Missouri,"Bachelor's degree or higher, 2019-23",1345230
+29000,MO,Missouri,"Percent of adults who are not high school graduates, 2019-23",8.411089971
+29000,MO,Missouri,"Percent of adults who are high school graduates (or equivalent), 2019-23",30.3369918
+29000,MO,Missouri,"Percent of adults completing some college or associate degree, 2019-23",29.35501983
+29000,MO,Missouri,"Percent of adults with a bachelor's degree or higher, 2019-23",31.8968984
+30000,MT,Montana,"Less than high school graduate, 2019-23",41822
+30000,MT,Montana,"High school graduate (or equivalency), 2019-23",214759
+30000,MT,Montana,"Some college or associate degree, 2019-23",247688
+30000,MT,Montana,"Bachelor's degree or higher, 2019-23",266066
+30000,MT,Montana,"Percent of adults who are not high school graduates, 2019-23",5.429066575
+30000,MT,Montana,"Percent of adults who are high school graduates (or equivalent), 2019-23",27.8786502
+30000,MT,Montana,"Percent of adults completing some college or associate degree, 2019-23",32.15328396
+30000,MT,Montana,"Percent of adults with a bachelor's degree or higher, 2019-23",34.53899927
+31000,NE,Nebraska,"Less than high school graduate, 2019-23",102256
+31000,NE,Nebraska,"High school graduate (or equivalency), 2019-23",324253
+31000,NE,Nebraska,"Some college or associate degree, 2019-23",423513
+31000,NE,Nebraska,"Bachelor's degree or higher, 2019-23",440234
+31000,NE,Nebraska,"Percent of adults who are not high school graduates, 2019-23",7.925248943
+31000,NE,Nebraska,"Percent of adults who are high school graduates (or equivalent), 2019-23",25.13090425
+31000,NE,Nebraska,"Percent of adults completing some college or associate degree, 2019-23",32.82395122
+31000,NE,Nebraska,"Percent of adults with a bachelor's degree or higher, 2019-23",34.11989559
+32000,NV,Nevada,"Less than high school graduate, 2019-23",277389
+32000,NV,Nevada,"High school graduate (or equivalency), 2019-23",602478
+32000,NV,Nevada,"Some college or associate degree, 2019-23",714821
+32000,NV,Nevada,"Bachelor's degree or higher, 2019-23",601393
+32000,NV,Nevada,"Percent of adults who are not high school graduates, 2019-23",12.63109148
+32000,NV,Nevada,"Percent of adults who are high school graduates (or equivalent), 2019-23",27.43423398
+32000,NV,Nevada,"Percent of adults completing some college or associate degree, 2019-23",32.54984675
+32000,NV,Nevada,"Percent of adults with a bachelor's degree or higher, 2019-23",27.38482779
+33000,NH,New Hampshire,"Less than high school graduate, 2019-23",59997
+33000,NH,New Hampshire,"High school graduate (or equivalency), 2019-23",272558
+33000,NH,New Hampshire,"Some college or associate degree, 2019-23",274829
+33000,NH,New Hampshire,"Bachelor's degree or higher, 2019-23",401838
+33000,NH,New Hampshire,"Percent of adults who are not high school graduates, 2019-23",5.94487635
+33000,NH,New Hampshire,"Percent of adults who are high school graduates (or equivalent), 2019-23",27.00674381
+33000,NH,New Hampshire,"Percent of adults completing some college or associate degree, 2019-23",27.23176863
+33000,NH,New Hampshire,"Percent of adults with a bachelor's degree or higher, 2019-23",39.81661121
+34000,NJ,New Jersey,"Less than high school graduate, 2019-23",600736
+34000,NJ,New Jersey,"High school graduate (or equivalency), 2019-23",1662983
+34000,NJ,New Jersey,"Some college or associate degree, 2019-23",1423815
+34000,NJ,New Jersey,"Bachelor's degree or higher, 2019-23",2771686
+34000,NJ,New Jersey,"Percent of adults who are not high school graduates, 2019-23",9.300441849
+34000,NJ,New Jersey,"Percent of adults who are high school graduates (or equivalent), 2019-23",25.74587953
+34000,NJ,New Jersey,"Percent of adults completing some college or associate degree, 2019-23",22.04314143
+34000,NJ,New Jersey,"Percent of adults with a bachelor's degree or higher, 2019-23",42.91053719
+35000,NM,New Mexico,"Less than high school graduate, 2019-23",178146
+35000,NM,New Mexico,"High school graduate (or equivalency), 2019-23",373330
+35000,NM,New Mexico,"Some college or associate degree, 2019-23",461295
+35000,NM,New Mexico,"Bachelor's degree or higher, 2019-23",438228
+35000,NM,New Mexico,"Percent of adults who are not high school graduates, 2019-23",12.27747228
+35000,NM,New Mexico,"Percent of adults who are high school graduates (or equivalent), 2019-23",25.72917004
+35000,NM,New Mexico,"Percent of adults completing some college or associate degree, 2019-23",31.791545
+35000,NM,New Mexico,"Percent of adults with a bachelor's degree or higher, 2019-23",30.20181268
+36000,NY,New York,"Less than high school graduate, 2019-23",1698537
+36000,NY,New York,"High school graduate (or equivalency), 2019-23",3437438
+36000,NY,New York,"Some college or associate degree, 2019-23",3324660
+36000,NY,New York,"Bachelor's degree or higher, 2019-23",5535503
+36000,NY,New York,"Percent of adults who are not high school graduates, 2019-23",12.13575488
+36000,NY,New York,"Percent of adults who are high school graduates (or equivalent), 2019-23",24.5599036
+36000,NY,New York,"Percent of adults completing some college or associate degree, 2019-23",23.75412417
+36000,NY,New York,"Percent of adults with a bachelor's degree or higher, 2019-23",39.55021735
+37000,NC,North Carolina,"Less than high school graduate, 2019-23",744581
+37000,NC,North Carolina,"High school graduate (or equivalency), 2019-23",1812528
+37000,NC,North Carolina,"Some college or associate degree, 2019-23",2183348
+37000,NC,North Carolina,"Bachelor's degree or higher, 2019-23",2521353
+37000,NC,North Carolina,"Percent of adults who are not high school graduates, 2019-23",10.25338036
+37000,NC,North Carolina,"Percent of adults who are high school graduates (or equivalent), 2019-23",24.95972767
+37000,NC,North Carolina,"Percent of adults completing some college or associate degree, 2019-23",30.06616808
+37000,NC,North Carolina,"Percent of adults with a bachelor's degree or higher, 2019-23",34.7207239
+38000,ND,North Dakota,"Less than high school graduate, 2019-23",31418
+38000,ND,North Dakota,"High school graduate (or equivalency), 2019-23",130763
+38000,ND,North Dakota,"Some college or associate degree, 2019-23",182590
+38000,ND,North Dakota,"Bachelor's degree or higher, 2019-23",164378
+38000,ND,North Dakota,"Percent of adults who are not high school graduates, 2019-23",6.170688737
+38000,ND,North Dakota,"Percent of adults who are high school graduates (or equivalent), 2019-23",25.68265871
+38000,ND,North Dakota,"Percent of adults completing some college or associate degree, 2019-23",35.86180077
+38000,ND,North Dakota,"Percent of adults with a bachelor's degree or higher, 2019-23",32.28485178
+39000,OH,Ohio,"Less than high school graduate, 2019-23",680554
+39000,OH,Ohio,"High school graduate (or equivalency), 2019-23",2624935
+39000,OH,Ohio,"Some college or associate degree, 2019-23",2303726
+39000,OH,Ohio,"Bachelor's degree or higher, 2019-23",2514129
+39000,OH,Ohio,"Percent of adults who are not high school graduates, 2019-23",8.377756746
+39000,OH,Ohio,"Percent of adults who are high school graduates (or equivalent), 2019-23",32.31347829
+39000,OH,Ohio,"Percent of adults completing some college or associate degree, 2019-23",28.35933084
+39000,OH,Ohio,"Percent of adults with a bachelor's degree or higher, 2019-23",30.94943412
+40000,OK,Oklahoma,"Less than high school graduate, 2019-23",287078
+40000,OK,Oklahoma,"High school graduate (or equivalency), 2019-23",811387
+40000,OK,Oklahoma,"Some college or associate degree, 2019-23",809067
+40000,OK,Oklahoma,"Bachelor's degree or higher, 2019-23",733793
+40000,OK,Oklahoma,"Percent of adults who are not high school graduates, 2019-23",10.86871173
+40000,OK,Oklahoma,"Percent of adults who are high school graduates (or equivalent), 2019-23",30.71893841
+40000,OK,Oklahoma,"Percent of adults completing some college or associate degree, 2019-23",30.63110371
+40000,OK,Oklahoma,"Percent of adults with a bachelor's degree or higher, 2019-23",27.78124615
+41000,OR,Oregon,"Less than high school graduate, 2019-23",250221
+41000,OR,Oregon,"High school graduate (or equivalency), 2019-23",676182
+41000,OR,Oregon,"Some college or associate degree, 2019-23",1000295
+41000,OR,Oregon,"Bachelor's degree or higher, 2019-23",1094312
+41000,OR,Oregon,"Percent of adults who are not high school graduates, 2019-23",8.282693536
+41000,OR,Oregon,"Percent of adults who are high school graduates (or equivalent), 2019-23",22.38264686
+41000,OR,Oregon,"Percent of adults completing some college or associate degree, 2019-23",33.11127735
+41000,OR,Oregon,"Percent of adults with a bachelor's degree or higher, 2019-23",36.22338225
+42000,PA,Pennsylvania,"Less than high school graduate, 2019-23",740736
+42000,PA,Pennsylvania,"High school graduate (or equivalency), 2019-23",3039316
+42000,PA,Pennsylvania,"Some college or associate degree, 2019-23",2215776
+42000,PA,Pennsylvania,"Bachelor's degree or higher, 2019-23",3157318
+42000,PA,Pennsylvania,"Percent of adults who are not high school graduates, 2019-23",8.092692939
+42000,PA,Pennsylvania,"Percent of adults who are high school graduates (or equivalent), 2019-23",33.20515154
+42000,PA,Pennsylvania,"Percent of adults completing some college or associate degree, 2019-23",24.20780789
+42000,PA,Pennsylvania,"Percent of adults with a bachelor's degree or higher, 2019-23",34.49434763
+44000,RI,Rhode Island,"Less than high school graduate, 2019-23",81676
+44000,RI,Rhode Island,"High school graduate (or equivalency), 2019-23",205862
+44000,RI,Rhode Island,"Some college or associate degree, 2019-23",199300
+44000,RI,Rhode Island,"Bachelor's degree or higher, 2019-23",289667
+44000,RI,Rhode Island,"Percent of adults who are not high school graduates, 2019-23",10.51841263
+44000,RI,Rhode Island,"Percent of adults who are high school graduates (or equivalent), 2019-23",26.51135537
+44000,RI,Rhode Island,"Percent of adults completing some college or associate degree, 2019-23",25.66628676
+44000,RI,Rhode Island,"Percent of adults with a bachelor's degree or higher, 2019-23",37.30394524
+45000,SC,South Carolina,"Less than high school graduate, 2019-23",375697
+45000,SC,South Carolina,"High school graduate (or equivalency), 2019-23",1019313
+45000,SC,South Carolina,"Some college or associate degree, 2019-23",1079156
+45000,SC,South Carolina,"Bachelor's degree or higher, 2019-23",1136208
+45000,SC,South Carolina,"Percent of adults who are not high school graduates, 2019-23",10.40604104
+45000,SC,South Carolina,"Percent of adults who are high school graduates (or equivalent), 2019-23",28.23289222
+45000,SC,South Carolina,"Percent of adults completing some college or associate degree, 2019-23",29.89042132
+45000,SC,South Carolina,"Percent of adults with a bachelor's degree or higher, 2019-23",31.47064542
+46000,SD,South Dakota,"Less than high school graduate, 2019-23",41643
+46000,SD,South Dakota,"High school graduate (or equivalency), 2019-23",175713
+46000,SD,South Dakota,"Some college or associate degree, 2019-23",193370
+46000,SD,South Dakota,"Bachelor's degree or higher, 2019-23",185411
+46000,SD,South Dakota,"Percent of adults who are not high school graduates, 2019-23",6.985474815
+46000,SD,South Dakota,"Percent of adults who are high school graduates (or equivalent), 2019-23",29.47527162
+46000,SD,South Dakota,"Percent of adults completing some college or associate degree, 2019-23",32.43717468
+46000,SD,South Dakota,"Percent of adults with a bachelor's degree or higher, 2019-23",31.10207888
+47000,TN,Tennessee,"Less than high school graduate, 2019-23",499497
+47000,TN,Tennessee,"High school graduate (or equivalency), 2019-23",1508292
+47000,TN,Tennessee,"Some college or associate degree, 2019-23",1337243
+47000,TN,Tennessee,"Bachelor's degree or higher, 2019-23",1460501
+47000,TN,Tennessee,"Percent of adults who are not high school graduates, 2019-23",10.39420601
+47000,TN,Tennessee,"Percent of adults who are high school graduates (or equivalent), 2019-23",31.38657044
+47000,TN,Tennessee,"Percent of adults completing some college or associate degree, 2019-23",27.82715258
+47000,TN,Tennessee,"Percent of adults with a bachelor's degree or higher, 2019-23",30.39207097
+48000,TX,Texas,"Less than high school graduate, 2019-23",2759723
+48000,TX,Texas,"High school graduate (or equivalency), 2019-23",4691708
+48000,TX,Texas,"Some college or associate degree, 2019-23",5461229
+48000,TX,Texas,"Bachelor's degree or higher, 2019-23",6381971
+48000,TX,Texas,"Percent of adults who are not high school graduates, 2019-23",14.30306182
+48000,TX,Texas,"Percent of adults who are high school graduates (or equivalent), 2019-23",24.3161323
+48000,TX,Texas,"Percent of adults completing some college or associate degree, 2019-23",28.30439722
+48000,TX,Texas,"Percent of adults with a bachelor's degree or higher, 2019-23",33.07640867
+49000,UT,Utah,"Less than high school graduate, 2019-23",134602
+49000,UT,Utah,"High school graduate (or equivalency), 2019-23",449786
+49000,UT,Utah,"Some college or associate degree, 2019-23",679141
+49000,UT,Utah,"Bachelor's degree or higher, 2019-23",739555
+49000,UT,Utah,"Percent of adults who are not high school graduates, 2019-23",6.719738164
+49000,UT,Utah,"Percent of adults who are high school graduates (or equivalent), 2019-23",22.45467489
+49000,UT,Utah,"Percent of adults completing some college or associate degree, 2019-23",33.90476885
+49000,UT,Utah,"Percent of adults with a bachelor's degree or higher, 2019-23",36.9208181
+50000,VT,Vermont,"Less than high school graduate, 2019-23",25326
+50000,VT,Vermont,"High school graduate (or equivalency), 2019-23",126179
+50000,VT,Vermont,"Some college or associate degree, 2019-23",114122
+50000,VT,Vermont,"Bachelor's degree or higher, 2019-23",197369
+50000,VT,Vermont,"Percent of adults who are not high school graduates, 2019-23",5.470025659
+50000,VT,Vermont,"Percent of adults who are high school graduates (or equivalent), 2019-23",27.25271925
+50000,VT,Vermont,"Percent of adults completing some college or associate degree, 2019-23",24.64859308
+50000,VT,Vermont,"Percent of adults with a bachelor's degree or higher, 2019-23",42.62866202
+51000,VA,Virginia,"Less than high school graduate, 2019-23",516186
+51000,VA,Virginia,"High school graduate (or equivalency), 2019-23",1423702
+51000,VA,Virginia,"Some college or associate degree, 2019-23",1547397
+51000,VA,Virginia,"Bachelor's degree or higher, 2019-23",2471630
+51000,VA,Virginia,"Percent of adults who are not high school graduates, 2019-23",8.662415893
+51000,VA,Virginia,"Percent of adults who are high school graduates (or equivalent), 2019-23",23.89196691
+51000,VA,Virginia,"Percent of adults completing some college or associate degree, 2019-23",25.96776427
+51000,VA,Virginia,"Percent of adults with a bachelor's degree or higher, 2019-23",41.47785293
+53000,WA,Washington,"Less than high school graduate, 2019-23",421541
+53000,WA,Washington,"High school graduate (or equivalency), 2019-23",1176403
+53000,WA,Washington,"Some college or associate degree, 2019-23",1714049
+53000,WA,Washington,"Bachelor's degree or higher, 2019-23",2097154
+53000,WA,Washington,"Percent of adults who are not high school graduates, 2019-23",7.793114145
+53000,WA,Washington,"Percent of adults who are high school graduates (or equivalent), 2019-23",21.74840137
+53000,WA,Washington,"Percent of adults completing some college or associate degree, 2019-23",31.68797224
+53000,WA,Washington,"Percent of adults with a bachelor's degree or higher, 2019-23",38.77051225
+54000,WV,West Virginia,"Less than high school graduate, 2019-23",144554
+54000,WV,West Virginia,"High school graduate (or equivalency), 2019-23",501118
+54000,WV,West Virginia,"Some college or associate degree, 2019-23",327989
+54000,WV,West Virginia,"Bachelor's degree or higher, 2019-23",295541
+54000,WV,West Virginia,"Percent of adults who are not high school graduates, 2019-23",11.38936119
+54000,WV,West Virginia,"Percent of adults who are high school graduates (or equivalent), 2019-23",39.48291919
+54000,WV,West Virginia,"Percent of adults completing some college or associate degree, 2019-23",25.84214333
+54000,WV,West Virginia,"Percent of adults with a bachelor's degree or higher, 2019-23",23.28557629
+55000,WI,Wisconsin,"Less than high school graduate, 2019-23",269431
+55000,WI,Wisconsin,"High school graduate (or equivalency), 2019-23",1207407
+55000,WI,Wisconsin,"Some college or associate degree, 2019-23",1259617
+55000,WI,Wisconsin,"Bachelor's degree or higher, 2019-23",1333128
+55000,WI,Wisconsin,"Percent of adults who are not high school graduates, 2019-23",6.620604617
+55000,WI,Wisconsin,"Percent of adults who are high school graduates (or equivalent), 2019-23",29.66905946
+55000,WI,Wisconsin,"Percent of adults completing some college or associate degree, 2019-23",30.95199189
+55000,WI,Wisconsin,"Percent of adults with a bachelor's degree or higher, 2019-23",32.75834404
+56000,WY,Wyoming,"Less than high school graduate, 2019-23",23502
+56000,WY,Wyoming,"High school graduate (or equivalency), 2019-23",109885
+56000,WY,Wyoming,"Some college or associate degree, 2019-23",143781
+56000,WY,Wyoming,"Bachelor's degree or higher, 2019-23",118336
+56000,WY,Wyoming,"Percent of adults who are not high school graduates, 2019-23",5.942291355
+56000,WY,Wyoming,"Percent of adults who are high school graduates (or equivalent), 2019-23",27.78353696
+56000,WY,Wyoming,"Percent of adults completing some college or associate degree, 2019-23",36.35386747
+56000,WY,Wyoming,"Percent of adults with a bachelor's degree or higher, 2019-23",29.92030422
+72000,PR,Puerto Rico,"Less than high school graduate, 2019-23",472462
+72000,PR,Puerto Rico,"High school graduate (or equivalency), 2019-23",670172
+72000,PR,Puerto Rico,"Some college or associate degree, 2019-23",566777
+72000,PR,Puerto Rico,"Bachelor's degree or higher, 2019-23",702653
+72000,PR,Puerto Rico,"Percent of adults who are not high school graduates, 2019-23",19.58745705
+72000,PR,Puerto Rico,"Percent of adults who are high school graduates (or equivalent), 2019-23",27.78417156
+72000,PR,Puerto Rico,"Percent of adults completing some college or associate degree, 2019-23",23.49759376
+72000,PR,Puerto Rico,"Percent of adults with a bachelor's degree or higher, 2019-23",29.13077762
